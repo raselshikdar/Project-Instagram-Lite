@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <header className="max-w-3xl flex justify-between mx-auto border-b border-darkText pb-3 lg:pb-5 dark:border-gray">
       <Link to={"/"}>
-        <h1 className="text-2xl dark:text-primary">👀 Insta Lite</h1>
+        <h1 className="text-2xl dark:text-primary">📸 Insta Lite</h1>
       </Link>
       <Auth />
     </header>
