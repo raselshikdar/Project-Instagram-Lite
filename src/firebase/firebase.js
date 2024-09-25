@@ -5,13 +5,13 @@ import { getStorage } from 'firebase/storage';
 import { getAuth, GoogleAuthProvider } from 'firebase/auth';
 
 const firebaseConfig = {
-	apiKey: 'AIzaSyAeN1qn2__7qUNjVky4EqnQyN-E-_VmmsA',
-	authDomain: 'seeit-51d77.firebaseapp.com',
-	projectId: 'seeit-51d77',
-	storageBucket: 'seeit-51d77.appspot.com',
-	messagingSenderId: '919059894715',
-	appId: '1:919059894715:web:4389bfa653c002eed9349e',
-	measurementId: 'G-NG8XJQPQWV',
+	apiKey: "AIzaSyA2yt6xTvMZAb5q-_tNGqPU4YwIpanSiJc",
+  authDomain: "project-insta-lite.firebaseapp.com",
+  projectId: "project-insta-lite",
+  storageBucket: "project-insta-lite.appspot.com",
+  messagingSenderId: "353549646358",
+  appId: "1:353549646358:web:11f18a739a6294b49d9337",
+  measurementId: "G-H0LH9D8BKB",
 };
 
 const app = initializeApp(firebaseConfig);
